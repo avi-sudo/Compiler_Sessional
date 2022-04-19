@@ -1,0 +1,30 @@
+7
+D u
+I foo FUNCTION
+I i VAR
+L foo
+L j
+I 5 NUMBER
+P A
+D j
+D i
+P A
+S
+I <= RELOP
+I == RELOP
+P A
+I <= RELOP
+I foo FUNCTION
+D ==
+P A
+E
+S
+I t t
+I k k
+I u u
+L 5
+I w w
+P C
+Q
+P A
+
